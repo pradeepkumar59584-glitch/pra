@@ -1,1 +1,23 @@
 # pra
+<html>
+    <head>
+        <title>home design</title>
+        <link rel="stylesheet" href="s.css">
+    </head>
+    <body>
+        <div class="banner">
+            <div class="navbar">
+                <img src="LOGO.webp" class="logo">
+                <ul>
+                    <li><a href="ABOUT.HTML">ABOUT US</a></li>
+                  </ul>
+            </div>
+ <div class="content">
+                <h1>DGPS APPOINTMENT BOOKINGS</h1>
+            <div>
+               <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3yh7INDRyZdiLLZwr31Biu7EEM63YOZQyW3vOEO6n5b3EkmSXtqVQU8FXtPZkZ05GLdcb6p2JX"> <button type="button"><span></span>BOOKINGS</button></a>
+</div>
+        </div>
+        </div>
+ </body>
+</html>
