@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>home design</title>
-        <link rel="stylesheet" href="s.css">
+        <link rel="stylesheet" href="S.CSS">
     </head>
     <body>
         <div class="banner">
